@@ -1,3 +1,3 @@
 # ImageDSP
 
-Application for practising methods for image processing digital signal processing.
+Application for practicing methods for image processing & digital signal processing.
